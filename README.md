@@ -1,2 +1,5 @@
 # hello-world
-a short description.
+
+I am a computer science student at linköping university.
+
+To be continued...
